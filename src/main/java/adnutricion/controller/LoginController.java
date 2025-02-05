@@ -1,9 +1,8 @@
-package madstodolist.controller;
+package adnutricion.controller;
 
-import madstodolist.authentication.ManagerUserSession;
-import madstodolist.model.Usuario;
-import madstodolist.service.TareaService;
-import madstodolist.service.UsuarioService;
+import adnutricion.authentication.ManagerUserSession;
+import adnutricion.model.Usuario;
+import adnutricion.service.UsuarioService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

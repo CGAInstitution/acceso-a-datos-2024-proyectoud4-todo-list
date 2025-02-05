@@ -1,10 +1,10 @@
-package madstodolist;
+package adnutricion;
 
 
-import madstodolist.model.Tarea;
-import madstodolist.model.Usuario;
-import madstodolist.service.TareaService;
-import madstodolist.service.UsuarioService;
+import adnutricion.model.Tarea;
+import adnutricion.model.Usuario;
+import adnutricion.service.TareaService;
+import adnutricion.service.UsuarioService;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

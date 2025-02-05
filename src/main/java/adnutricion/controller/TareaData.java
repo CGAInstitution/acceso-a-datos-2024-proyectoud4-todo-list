@@ -1,4 +1,4 @@
-package madstodolist.controller;
+package adnutricion.controller;
 
 public class TareaData {
     private String titulo;

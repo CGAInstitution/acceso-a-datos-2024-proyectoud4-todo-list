@@ -1,8 +1,8 @@
-package madstodolist;
+package adnutricion;
 
-import madstodolist.authentication.ManagerUserSession;
-import madstodolist.service.TareaService;
-import madstodolist.service.UsuarioService;
+import adnutricion.authentication.ManagerUserSession;
+import adnutricion.service.TareaService;
+import adnutricion.service.UsuarioService;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.web.servlet.AutoConfigureMockMvc;

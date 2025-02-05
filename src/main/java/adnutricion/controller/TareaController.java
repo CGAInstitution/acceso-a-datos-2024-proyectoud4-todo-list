@@ -1,12 +1,12 @@
-package madstodolist.controller;
+package adnutricion.controller;
 
-import madstodolist.authentication.ManagerUserSession;
-import madstodolist.controller.exception.TareaNotFoundException;
-import madstodolist.controller.exception.UsuarioNotFoundException;
-import madstodolist.model.Tarea;
-import madstodolist.model.Usuario;
-import madstodolist.service.TareaService;
-import madstodolist.service.UsuarioService;
+import adnutricion.authentication.ManagerUserSession;
+import adnutricion.controller.exception.TareaNotFoundException;
+import adnutricion.controller.exception.UsuarioNotFoundException;
+import adnutricion.model.Tarea;
+import adnutricion.model.Usuario;
+import adnutricion.service.TareaService;
+import adnutricion.service.UsuarioService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

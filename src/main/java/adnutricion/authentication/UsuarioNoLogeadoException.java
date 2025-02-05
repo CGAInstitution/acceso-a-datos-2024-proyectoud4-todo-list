@@ -1,4 +1,4 @@
-package madstodolist.authentication;
+package adnutricion.authentication;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

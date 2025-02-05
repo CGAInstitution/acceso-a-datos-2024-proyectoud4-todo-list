@@ -1,4 +1,4 @@
-package madstodolist.service;
+package adnutricion.service;
 
 public class TareaServiceException extends RuntimeException {
 

@@ -1,4 +1,4 @@
-package madstodolist.model;
+package adnutricion.model;
 
 import org.springframework.data.repository.CrudRepository;
 

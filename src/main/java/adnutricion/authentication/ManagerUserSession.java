@@ -1,4 +1,4 @@
-package madstodolist.authentication;
+package adnutricion.authentication;
 
 import org.springframework.stereotype.Component;
 

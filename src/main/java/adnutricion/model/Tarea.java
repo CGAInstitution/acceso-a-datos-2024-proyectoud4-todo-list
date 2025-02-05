@@ -1,4 +1,4 @@
-package madstodolist.model;
+package adnutricion.model;
 
 import javax.persistence.*;
 import javax.validation.constraints.NotNull;

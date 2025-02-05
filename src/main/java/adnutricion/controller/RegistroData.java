@@ -1,4 +1,4 @@
-package madstodolist.controller;
+package adnutricion.controller;
 
 import org.springframework.format.annotation.DateTimeFormat;
 

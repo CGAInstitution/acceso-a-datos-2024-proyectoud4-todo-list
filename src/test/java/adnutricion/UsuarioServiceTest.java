@@ -1,16 +1,13 @@
-package madstodolist;
+package adnutricion;
 
-import madstodolist.model.Usuario;
-import madstodolist.service.UsuarioService;
-import madstodolist.service.UsuarioServiceException;
+import adnutricion.model.Usuario;
+import adnutricion.service.UsuarioService;
+import adnutricion.service.UsuarioServiceException;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.jdbc.Sql;
-import org.springframework.transaction.annotation.Transactional;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.springframework.test.context.jdbc.Sql.ExecutionPhase.AFTER_TEST_METHOD;

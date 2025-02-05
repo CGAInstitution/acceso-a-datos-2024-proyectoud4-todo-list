@@ -1,9 +1,9 @@
-package madstodolist.service;
+package adnutricion.service;
 
-import madstodolist.model.Tarea;
-import madstodolist.model.TareaRepository;
-import madstodolist.model.Usuario;
-import madstodolist.model.UsuarioRepository;
+import adnutricion.model.Tarea;
+import adnutricion.model.TareaRepository;
+import adnutricion.model.Usuario;
+import adnutricion.model.UsuarioRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

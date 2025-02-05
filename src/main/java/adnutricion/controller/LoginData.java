@@ -1,4 +1,4 @@
-package madstodolist.controller;
+package adnutricion.controller;
 
 public class LoginData {
     private String eMail;
